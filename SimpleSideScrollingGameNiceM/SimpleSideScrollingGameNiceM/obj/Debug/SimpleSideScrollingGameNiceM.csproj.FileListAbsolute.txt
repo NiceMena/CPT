@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\CPT\SimpleSideScrollingGameNiceM\SimpleSideScrollingGameNiceM\bin\Debug\SimpleSideScrollingGameNiceM.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\CPT\SimpleSideScrollingGameNiceM\SimpleSideScrollingGameNiceM\bin\Debug\SimpleSideScrollingGameNiceM.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\CPT\SimpleSideScrollingGameNiceM\SimpleSideScrollingGameNiceM\bin\Debug\SimpleSideScrollingGameNiceM.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\CPT\SimpleSideScrollingGameNiceM\SimpleSideScrollingGameNiceM\obj\Debug\SimpleSideScrollingGameNiceM.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\CPT\SimpleSideScrollingGameNiceM\SimpleSideScrollingGameNiceM\obj\Debug\SimpleSideScrollingGameNiceM.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\CPT\SimpleSideScrollingGameNiceM\SimpleSideScrollingGameNiceM\obj\Debug\SimpleSideScrollingGameNiceM.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\CPT\SimpleSideScrollingGameNiceM\SimpleSideScrollingGameNiceM\obj\Debug\SimpleSideScrollingGameNiceM.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\CPT\SimpleSideScrollingGameNiceM\SimpleSideScrollingGameNiceM\obj\Debug\SimpleSideScrollingGameNiceM.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\CPT\SimpleSideScrollingGameNiceM\SimpleSideScrollingGameNiceM\obj\Debug\SimpleSideScrollingGameNiceM.frmScrollingGame.resources
